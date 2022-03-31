@@ -13,7 +13,10 @@ We can train the YOLOv5 model by re-training the **Train_YOLOv5_ColabPro.ipynb**
 
 ## Run Demo
  ```python .\app.py```
- ![All text](templates/nqd.png)
+ 
+### Result
+
+ ![All text](templates/demo.PNG)
  
  
  ***Updating ...***
