@@ -1,5 +1,8 @@
 # Chest-X-Ray-Diagnosis: VinBigData Chest X-ray Abnormalities Detection
 
+## Overview
+In this study, we compare the performance of two models Faster RCNN R50 FPN 3x (Detectron2) and YOLOv5 model based on VinBigData Chest X-ray Abnormalities Detection datasets. The results show that the YOLOv5 model has superior performance compared to Faster R-CNN. Therefore, we build a simulation using the YOLOv5 model to detect abnormalities on chest X-ray images.
+
 ## Installation
 ```!pip install -r requirements.txt```
 
